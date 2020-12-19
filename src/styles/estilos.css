@@ -1,0 +1,68 @@
+.semestre {    
+    display:flex;
+    padding:1%;
+    width: min-content;
+}
+
+.titulo {
+    color: rgb(15, 12, 12);
+    font-family: "Roboto", sans-serif;  
+}
+
+.boton{    
+    background-color:#9e0000bf;
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 10%;    
+    padding:5%;
+    transition-duration: 0.5s;
+    cursor: pointer;  
+}
+
+.boton:hover {
+    background-color: #4ca0afb7; /* Green */
+    color: white;
+}
+
+.boton.verde{
+    background-color: #4CAF50; /* Green */
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 10%;    
+    padding:5%;
+}
+
+.boton.amarillo{
+    background-color: #bbbd3a; /* Green */
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 10%;    
+    padding:5%;
+}
+
+.titulo-intermedio{
+    background-color: #ff0707b0;
+    border-style: solid;
+    width: 40%;
+    text-align: center;
+    margin-block: inherit;
+    padding: 1%;
+    font-family: "Roboto" , Arial, Helvetica, sans-serif;
+    font-size: 120%; 
+}
+
+.titulo-intermedio.verde{
+    background-color: #4CAF50;
+    border-style: solid;
+    width: 40%;
+    text-align: center;
+    margin-block: inherit;
+    padding: 1%;
+    font-family: "Roboto" , Arial, Helvetica, sans-serif;
+    font-size: 120%; 
+}
