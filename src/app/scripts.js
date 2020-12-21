@@ -1,6 +1,6 @@
 var contador=0;
 
-function cambiarColor(identificador){
+function cambiarColor(identificador){    
     contador++;
     if(contador == 1){
         document.getElementById(identificador).classList.add('amarillo');
@@ -58,6 +58,8 @@ function cargar() {
         valores [id-1] = JSON.parse(localStorage.getItem('Color de'+ id), document.getElementById(''+id).classList);
         if (valores[id-1]["1"]!= 'undefined'){
             document.getElementById(''+id).classList.add(valores[id-1]["1"]);            
+        }else{
+            document.getElementById(''+id).classList.add(valores[id-1]["2"]);
         }              
     }
     titulo(); 
