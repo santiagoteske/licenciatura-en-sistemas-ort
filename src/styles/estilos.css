@@ -45,6 +45,40 @@
     padding:5%;
 }
 
+.taller{
+    background-color:#9e0000bf;
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 15%;    
+    padding:2%;
+    transition-duration: 0.5s;
+    cursor: pointer; 
+}
+
+.taller:hover {
+    background-color: #4ca0afb7; /* Green */
+    color: white;
+}
+
+.taller.verde{
+    background-color: #4CAF50; /* Green */
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 15%;       
+}
+
+.taller.amarillo{
+    background-color: #bbbd3a; /* Green */
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 15%;     
+}
+
 .titulo-intermedio{
     background-color: #ff0707b0;
     border-style: solid;
