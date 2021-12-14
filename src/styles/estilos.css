@@ -100,3 +100,11 @@
     font-family: "Roboto" , Arial, Helvetica, sans-serif;
     font-size: 120%; 
 }
+
+.info{ 
+    margin-left: 68%;
+    position: fixed;
+    width: 60%;
+    font-family: "Roboto" , Arial, Helvetica, sans-serif;
+    font-size: 150%; 
+}
