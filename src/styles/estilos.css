@@ -145,3 +145,43 @@ button[class*= "taller"]:hover {
     font-family: "Roboto" , Arial, Helvetica, sans-serif;
     font-size: 150%; 
 }
+
+#referenciaRoja{
+    background-color: #9e0000bf; /* rojo */    
+    font-family: "Roboto", sans-serif;
+    font-size: 65%;
+    text-align: center;   
+    border-radius: 10%;    
+    padding:2%;
+    pointer-events: none;
+}
+
+#referenciaAzul{
+    background-color: #2282b9; /* rojo */    
+    font-family: "Roboto", sans-serif;
+    font-size: 65%;
+    text-align: center;   
+    border-radius: 10%;    
+    padding:2%;
+    pointer-events: none;
+}
+
+#referenciaAmarilla{
+    background-color: #bbbd3a; /* rojo */    
+    font-family: "Roboto", sans-serif;
+    font-size: 65%;
+    text-align: center;   
+    border-radius: 10%;    
+    padding:2%;
+    pointer-events: none;
+}
+
+#referenciaVerde{
+    background-color: #4CAF50; /* rojo */    
+    font-family: "Roboto", sans-serif;
+    font-size: 65%;
+    text-align: center;   
+    border-radius: 10%;    
+    padding:2%;
+    pointer-events: none;
+}
