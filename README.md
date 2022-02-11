@@ -2,10 +2,13 @@
 
 Lo siguiente es una representación del plan de estudios de la carrera de Licenciatura en Sístemas (plan 2019) de Universidad ORT Uruguay (**aplicación no oficial**) a modo de llevar un conteo de las materias cursadas y pendientes.
 
-En la aplicación se mostrará el programa de estudio diferenciado en tres colores:
+En la aplicación se mostrará el programa de estudio diferenciado en cuatro colores:
 - Rojo para materias pendientes (crédito no obtenido).
+- Azul para materias que se estén cursando actualmente.
 - Amarillo para examenes pendientes (crédito parcial).
 - Verde para materias aprobadas (crédito total).
+
+Se podrá llevar además un conteo de la cantidad de créditos parciales, totales y restantes.
 
 Ejemplo:
 
