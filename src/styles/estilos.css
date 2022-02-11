@@ -20,9 +20,28 @@
     cursor: pointer;  
 }
 
-.boton:hover {
-    background-color: #4ca0afb7; /* Green */
+button[class*="boton"]:hover {  /*Toma todo lo que contenga boton */
+    background-color: #081113; 
+    color: rgb(255, 255, 255);
+}
+
+.boton.rojo{
+    background-color: #9e0000bf; /* rojo */    
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 10%;    
+    padding:5%;
+}
+
+.boton.azul{
+    background-color: #2282b9; /* Azul */
     color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 10%;    
+    padding:5%;
 }
 
 .boton.verde{
@@ -56,9 +75,27 @@
     cursor: pointer; 
 }
 
-.taller:hover {
-    background-color: #4ca0afb7; /* Green */
+button[class*= "taller"]:hover {
+    background-color: black;
     color: white;
+}
+
+.taller.rojo{
+    background-color: #9e0000bf; /* Azul*/
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 15%;       
+}
+
+.taller.azul{
+    background-color: #2282b9; /* Azul*/
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 100%;
+    text-align: center;   
+    border-radius: 15%;       
 }
 
 .taller.verde{
