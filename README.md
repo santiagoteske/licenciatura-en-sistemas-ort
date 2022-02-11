@@ -12,7 +12,7 @@ Se podrá llevar además un conteo de la cantidad de créditos parciales, totale
 
 Ejemplo:
 
-<a href="https://ibb.co/nkV3HPf"><img src="https://i.ibb.co/9YfwFZ2/licenciaturaensistemas.jpg" alt="licenciaturaensistemas" border="0"></a>
+<a href="https://ibb.co/Tc0fYsy"><img src="https://i.ibb.co/6YtMrkQ/ejemplo.png" alt="ejemplo" border="0"></a>
 
 ## Descargar el ejecutable:
 
